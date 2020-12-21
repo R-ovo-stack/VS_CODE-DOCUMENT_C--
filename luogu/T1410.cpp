@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 //TODO 最长连号长度
+//注解: 本题是洛谷 P1420,误写了文件名
 int main(){
     int n;
     cin >> n;
